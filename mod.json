@@ -1,0 +1,18 @@
+{
+    "geode": "5.11.2",
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "poyraz.predictive-buffer-gd",
+    "name": "Predictive Buffer",
+    "version": "v1.0.0",
+    "developer": "poyraz",
+    "description": "Mobile port of GMD Buffer Mod.",
+    "links": {
+        "source": "https://github.com/geodeuserxd/Predictive-buffer-gd"
+    },
+    "tags": [
+        "gameplay",
+        "utility"
+    ]
+}
